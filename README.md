@@ -10,3 +10,20 @@ Mavic 3 Enterprise
 * When deleting images on the microSD card, move the images to the trash, then empty the trash. Otherwise, images are not deleted.
 
 * Bring an external power source for the remote controller. 
+
+<br>
+<br>
+<br>
+
+## Macbook Air Software Stack
+* Agisoft Metashape GUI and python module
+* Cloudcompare GUI
+* QGIS GUI
+* Docker desktop and CLI tool
+* exiftool CLI tool
+* VS Code
+* WebODM
+
+  `cd /users/jgillan/Documents/repositories/WebODM`
+
+  `./webodm.sh start`
