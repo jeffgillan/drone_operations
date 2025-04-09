@@ -28,3 +28,6 @@ Mavic 3 Enterprise
   `cd /users/jgillan/Documents/repositories/WebODM`
 
   `./webodm.sh start`
+* LibreCAD
+
+    This is a CAD program similar to AutoCAD. When I create a DEM in Agisoft, I can then make elevation contours in QGIS and save it as DXF file format. This format can be viewed in LibreCAD and exported to DWG format that is common in AutoCAD.
