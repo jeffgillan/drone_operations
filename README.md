@@ -19,6 +19,7 @@ Mavic 3 Enterprise
 * Agisoft Metashape GUI and python module
 * Cloudcompare GUI
 * QGIS GUI
+* Claude Desktop (syncs with Qgis)
 * Docker desktop and CLI tool
 * exiftool CLI tool
 * VS Code
